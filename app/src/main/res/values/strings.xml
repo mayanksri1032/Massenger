@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Massenger</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="messanger_will_send_an_sms_message_to_verify_your_phone_number_enter_phone_number">Messanger will send an SMS message to verify your phone number,Enter Phone Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="next">Next</string>
+    <string name="verify_your_phone_number">Verify Your Phone Number</string>
+    <string name="verify_number">Verify Number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="otp">OTP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="setup_your_profile">Setup Your Profile</string>
+    <string name="signin">Signin</string>
+    <string name="message">Message...</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="mayank_srivastava">Mayank Srivastava</string>
+    <string name="tap_to_chat">Tap to Chat</string>
+</resources>
